@@ -8,7 +8,7 @@
 - Do check my projects (especially my FirstGame) :D
 
 ### To talk with me:
-<a href="https://discord.com/channels/@me">
+<a target="_blank" href="https://discord.com/channels/@me">
 <img src="https://www.iconsdb.com/icons/preview/black/discord-xxl.png" width= 5% height= auto/>
 </a>
 

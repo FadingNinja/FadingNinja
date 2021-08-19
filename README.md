@@ -8,7 +8,9 @@
 - Do check my projects (especially my FirstGame) :D
 
 ### To talk with me:
+<a href="discord.com">
 <img src="https://www.iconsdb.com/icons/preview/black/discord-xxl.png" width= 10% height= auto/>
+</a>
 - FadingNinja#3511
 
 <!--

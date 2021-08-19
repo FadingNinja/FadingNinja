@@ -4,7 +4,8 @@
 
 - Student
 - #CampK12
-- I didn't know this existed 
+- I didn't know this existed
+- Do check my projects (especially my FirstGame) :D
 
 <!--
 **FadingNinja/FadingNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

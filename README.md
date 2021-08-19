@@ -7,6 +7,10 @@
 - I didn't know this existed
 - Do check my projects (especially my FirstGame) :D
 
+### To talk with me:
+.[<img src"https://www.iconsdb.com/icons/preview/black/discord-xxl.png"/>]
+- FadingNinja#3511
+
 <!--
 **FadingNinja/FadingNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

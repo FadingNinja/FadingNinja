@@ -3,7 +3,7 @@
 ## (Why are u reading this)
 
 - Student
-- #CampK12
+- #Coding
 - I didn't know this existed
 - Do check my projects (especially my FirstGame) :D
 

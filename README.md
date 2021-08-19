@@ -12,12 +12,13 @@
 <img src="https://www.iconsdb.com/icons/preview/black/discord-xxl.png" width= 5% height= auto/>
 </a>
 
-- FadingNinja#3511
+- User - FadingNinja#3511
 
 ### Apps
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width= 5% height= auto/>
 </a>
+- Visual Studio Code
 
 <!--
 **FadingNinja/FadingNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

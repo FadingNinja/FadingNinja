@@ -9,7 +9,7 @@
 
 ### To talk with me:
 <a href="https://discord.com/channels/@me">
-<img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png" width= 5% height= auto/>
+<img src="https://icon-library.com/images/discord-transparent-server-icon/discord-transparent-server-icon-24.jpg" width= 5% height= auto/>
 </a>
 
 - FadingNinja#3511

@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola
+
+## (Why are u reading this)
+
+- Student
+- #CampK12
+- I didn't know this existed 
 
 <!--
 **FadingNinja/FadingNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
